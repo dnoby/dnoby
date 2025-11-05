@@ -1,5 +1,6 @@
 ![Добро пожаловать!](https://github.com/jon/coolproject/raw/master/image/image.png)
-О нас
+
+#О нас
 
 О проекте (тут) / [Брендинг](./branding) / [Разрабам](./developers)
 
